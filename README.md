@@ -48,4 +48,43 @@ esperanca-viva/
 
 ## 📱 Responsividade
 
-O site foi desenvolvido para se adaptar a diferentes tamanhos de tela. Foram utilizados recursos de CSS responsivo para ajustar a disposição dos elementos, textos, imagens, menus e
+O site foi desenvolvido para se adaptar a diferentes tamanhos de tela. Foram utilizados recursos de CSS responsivo para ajustar a disposição dos elementos, textos, imagens, menus e demais componentes conforme a largura disponível.
+
+Dessa forma, o projeto pode ser acessado por computadores, tablets e dispositivos móveis.
+
+🖼️ Otimização de imagens
+
+Para melhorar o desempenho da aplicação, os recursos visuais foram utilizados de maneira otimizada. Elementos gráficos vetoriais foram utilizados em SVG, enquanto imagens fotográficas podem utilizar formatos compactados adequados para a web.
+
+As imagens também são dimensionadas de acordo com o espaço disponível na interface, evitando o carregamento desnecessário de arquivos maiores do que a área apresentada ao usuário.
+
+♿ Acessibilidade
+
+O projeto considera boas práticas de acessibilidade no desenvolvimento da interface, buscando facilitar a utilização do site por diferentes usuários.
+
+Entre os cuidados adotados estão:
+
+Estrutura semântica em HTML5;
+Organização hierárquica dos conteúdos;
+Textos alternativos em imagens quando aplicável;
+Contraste adequado entre elementos;
+Navegação e apresentação adaptadas a diferentes dispositivos.
+🔄 Versionamento
+
+O código-fonte foi versionado utilizando Git e GitHub, permitindo acompanhar as alterações realizadas durante o desenvolvimento e manter uma versão organizada do projeto.
+
+O repositório também possibilita a continuidade do desenvolvimento e futuras atualizações da aplicação.
+
+🚀 Deploy
+
+O projeto pode ser publicado utilizando o GitHub Pages, permitindo disponibilizar a aplicação por meio de uma URL pública diretamente a partir do repositório.
+
+A publicação integrada ao GitHub facilita a atualização do site sempre que novas versões do código são enviadas ao repositório.
+
+👥 Projeto acadêmico
+
+Projeto desenvolvido como atividade acadêmica, com o objetivo de aplicar conhecimentos de desenvolvimento front-end, estruturação de páginas web, responsividade, acessibilidade, versionamento e publicação de aplicações.
+
+🌱 Esperança Viva
+
+Tecnologia utilizada para aproximar pessoas, projetos e oportunidades de transformação social.
