@@ -81,6 +81,10 @@ O projeto pode ser publicado utilizando o GitHub Pages, permitindo disponibiliza
 
 A publicação integrada ao GitHub facilita a atualização do site sempre que novas versões do código são enviadas ao repositório.
 
+🌐 Acesse o site
+
+[Esperança Viva | Início](https://psychic-space-doodle-g47gpv9q9wggh9wrq-8080.app.github.dev/)
+
 👥 Projeto acadêmico
 
 Projeto desenvolvido como atividade acadêmica, com o objetivo de aplicar conhecimentos de desenvolvimento front-end, estruturação de páginas web, responsividade, acessibilidade, versionamento e publicação de aplicações.
